@@ -1,0 +1,17 @@
+### ECMA Script
+
+- [What is ECMAScript? How is it different from JavaScript?]()
+- [Difference between let, const and var?]()
+- [Is it possible to change the value defined via const?]()
+- [What is a temporal dead zone?]()
+- [Difference between Rest and Spread operators?]()
+- [What is destructuring?]()
+- [What is the for...of loop used for?]()
+- [What are Template Literals?]()
+- [What is Set, Map, WeakMap and WeakSet?]()
+- [Difference between regular functions and arrow functions?]()
+- [Difference between Object.freeze() method and const?]()
+- [What are generators? When should you use generators?]()
+- [What are ES6 modules?]()
+- [What is a symbol (Symbol) in ES6?]()
+- [What is the .includes() method used for?]()
