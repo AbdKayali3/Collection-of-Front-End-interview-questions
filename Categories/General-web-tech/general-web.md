@@ -4,7 +4,7 @@
 - [What is the difference between adaptive and responsive designs?]()
 - [Difference between Progressive Enhancement and Graceful Degradation]()
 - [What is crossbrowser compatibility]()
-- [SWhat is Babel? What is it used for?]()
+- [What is Babel? What is it used for?]()
 - [Difference between feature detection, feature inference and user-agent string parsing?]()
 - [What are Web Components and what technologies do they use?]()
 - [Ways to reduce web page load time?]()

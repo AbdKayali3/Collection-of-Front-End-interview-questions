@@ -29,7 +29,8 @@ A collection of front-end questions and their answers to help you prepare fastly
 4. Open the answer resources to read more about that topic/question.
 
 ### Resources (Questions retrieved from)
-- [YauhenKavalchuk/interview-questions](https://github.com/YauhenKavalchuk/interview-questions)
+- [YauhenKavalchuk/interview-questions (added but yet to answer)](https://github.com/YauhenKavalchuk/interview-questions)
+- [h5bp/Front-end-Developer-Interview-Questions (yet to add)](https://github.com/h5bpFront-end-Developer-Interview-Questions)
 
 
 ### License
